@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(181, 172, 163);
+}
+
+.header{
+    color: rgb(83, 58, 51);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    border: medium solid rgb(83, 58, 51);
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+
+.image img{
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    display: block;
+ 
+}
+
+p{
+   padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    
+}
+
+.content p{
+
+    text-align: left;   
+    font-size: 24px; 
+    padding: 0px;
+}
+
+.content h2{
+    padding: 20px;
+    color:rgba(83, 58, 51);
+    border: dotted thick ;
+    background-color: rgba(181, 172, 163);
+    font-size: 29px;
+}
+
+.travels h2{
+    padding: 20px;
+    color: rgba(83, 58, 51);
+    border: dotted thick rgba(83, 58, 51);
+    background-color:rgba(181, 172, 163);
+    font-size: 29px;
+}
+.travels p{
+    text-align: left;
+    font-size: 24px;      
+    padding: 0px;
+}
+
+.travels ul{
+    color:rgb(83, 58, 51);
+    font-size: 24px;
+    padding-left: 50px;
+}
